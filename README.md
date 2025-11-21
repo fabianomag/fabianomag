@@ -1,4 +1,4 @@
-## I’m Frank, a JavaScript Ecosystem Specialist
+## I’m Fabiano, a JavaScript Ecosystem Specialist
 With a background in Industrial Engineering (UK) and Full Stack Development training from a Silicon Valley Bootcamp (USA), I bring years of experience building top-tier fullstack solutions. Now, I’m taking on new projects and consulting gigs directly with clients.
 
 ### Tech Stack
@@ -12,8 +12,8 @@ Tools & Styling:
 - **[Homeplate](https://app.gethomeplate.com/signin)**: SaaS Platform: Developed a multi-tenant service management system with a custom component library, optimized for scalability and mobile.
 
 ### Let's Connect
-<a href="https://www.linkedin.com/in/fabianofrank/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" /></a>  
+<a href="https://www.linkedin.com/in/fabianomag/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" /></a>  
 <a href="https://wa.me/5538988529737" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" style="margin-bottom: 5px;" /></a>  
-<a href="https://github.com/fabianofrank" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" /></a>
+<a href="https://github.com/fabianomag" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" /></a>
 
 <em>Your vision, built with power—let’s start now!</em>
