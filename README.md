@@ -1,6 +1,6 @@
 # Hi there, I'm Fabiano 👋
 
-## Frontend-leaning Full Stack Developer
+## Full Stack Developer
 
 I build web products with React, TypeScript, Next.js, and Ruby on Rails. My background combines Industrial Engineering, full-stack training, and hands-on product work across remote teams.
 
